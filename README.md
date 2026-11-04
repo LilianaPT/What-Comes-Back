@@ -1,4 +1,4 @@
-![What Comes Back Isn't the Same](docs/Banner_itch.png)
+![What Comes Back Isn't the Same](Docs/Banner_itch.png)
 
 # What Comes Back Isn't the Same
 
@@ -12,8 +12,8 @@ A 2D pixel-art puzzle platformer made in 48 hours for **Spooky 2D Jam 2026** (th
 Your little sister is gone. An old altar in the cemetery can bring her back, but every resurrection takes something from her. Guide her through the forest, the city, and the garden that leads home, solve puzzles together, and decide at the end: bring her back one last time, or let her go.
 
 ## Screenshots
-![Cemetery](docs/screenshot1.png)
-![Forest level](docs/screenshot2.png)
+![Cemetery](Docs/screenshot1.png)
+![Forest level](Docs/screenshot2.png)
 
 ## Controls
 | Action | Key |
