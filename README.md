@@ -6,7 +6,7 @@
 
 A 2D pixel-art puzzle platformer made in 48 hours for **Spooky 2D Jam 2026** (theme: necromancy).
 
-🎮 **Play it in your browser:** [itch.io link]
+🎮 **Play it in your browser:** [[itch.io link](https://katsuna96.itch.io/what-comes-back)]
 
 ## About
 Your little sister is gone. An old altar in the cemetery can bring her back, but every resurrection takes something from her. Guide her through the forest, the city, and the garden that leads home, solve puzzles together, and decide at the end: bring her back one last time, or let her go.
