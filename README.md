@@ -35,7 +35,7 @@ Your little sister is gone. An old altar in the cemetery can bring her back, but
 - Testing, debugging and WebGL deployment
 
 ## Credits & AI disclosure
-- Concept, design and Unity implementation: Liliana Pantoja
+- Concept, design, C# code, and Unity implementation: Liliana Pantoja
 - Character sprites and altar candle art: Evelyn
 
 **Made with AI assistance**
